@@ -1,1 +1,1 @@
-# MQTT menssage with esp32 and node-red
+# MQTT messages with esp32 and node-red
