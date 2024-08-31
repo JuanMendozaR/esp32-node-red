@@ -2,5 +2,5 @@
 
 
 
-Video de configuracion de node-red para control de servo y encendido y pagado de led.
+Video de configuracion de node-red para control de servo, encendido y pagado de led.
 https://youtu.be/NbPzaCmhdRk?si=4ttsI3oHlRTcLjOl
